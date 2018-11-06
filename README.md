@@ -1,6 +1,6 @@
 # Coursera: Building R Packages
+https://ci.appveyor.com/api/projects/status/p2dwaby3p2nmw1gr?svg=true
 
-[![Build Status](https://travis-ci.org/ntbohl/fars.svg?branch=master)](https://travis-ci.org/ntbohl/fars) [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/ntbohl/fars?branch=master&svg=true)](https://ci.appveyor.com/project/ntbohl/fars)
 
 This is a project submission for Coursera: Building R Packages. This package meets all of the submission criteria, listed below.
 
