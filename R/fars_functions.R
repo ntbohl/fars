@@ -92,7 +92,6 @@ fars_read_years <- function(years) {
   })
 }
 
-
 #' generates a tibble that tallies the number of accidents
 #' per year, segmented by month.
 #'
