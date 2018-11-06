@@ -77,7 +77,6 @@ make_filename <- function(year) {
 #' }
 #'
 #' @importFrom dplyr %>% mutate select
-#' @export
 fars_read_years <- function(years) {
   lapply(years, function(year) {
     file <- make_filename(year)
