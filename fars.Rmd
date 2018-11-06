@@ -1,0 +1,19 @@
+---
+title: "FARS vignette"
+author: "Nick Bohl"
+date: "November 5, 2018"
+output: html_document
+---
+
+# Package Description
+
+This package is intended to eventually plot fatality analysis on a map of the US. Data acquired from the National Highway Traffic Safety Administration (NHTSA) was obtained as sample data for this package.
+
+# Load Packages
+
+```{r import libraries}
+ library(fars)
+ library(maps)
+```
+
+
