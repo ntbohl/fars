@@ -1,6 +1,6 @@
 # Coursera: Building R Packages
 
-https://ci.appveyor.com/project/ntbohl/fars/branch/master
+https://ci.appveyor.com/project/ntbohl/fars
 
 This is a project submission for Coursera: Building R Packages. This package meets all of the submission criteria, listed below.
 
