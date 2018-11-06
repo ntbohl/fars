@@ -13,7 +13,7 @@ RoxygenNote: 6.1.0
 Imports: dplyr,
          maps,
          readr,
-         tiryr,
+         tidyr,
          knitr,
          rmarkdown,
          testthat,

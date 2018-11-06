@@ -44,7 +44,6 @@ fars_read <- function(filename) {
 #' \dontrun{
 #' make_filename(2018)
 #' }
-#' @export
 make_filename <- function(year) {
   year <- as.integer(year)
   sprintf("accident_%d.csv.bz2", year)
@@ -117,7 +116,7 @@ fars_read_years <- function(years) {
 #'
 #'
 #' @importFrom dplyr %>% bind_rows group_by summarize
-#' @importFrom tidyr %>% spread
+#' @importFrom tidyr spread
 #'
 #' @export
 fars_summarize_years <- function(years) {
