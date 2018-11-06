@@ -3,8 +3,8 @@ title: "FARS vignette"
 author: "Nick Bohl"
 date: "November 5, 2018"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 # Package Description
@@ -15,7 +15,7 @@ This package is intended to eventually plot fatality analysis on a map of the US
 
 ```{r import libraries}
  library(fars)
- suppressPackageStartupMessages(library(maps))
+ suppressWarnings(library(maps))
 ```
 
 
