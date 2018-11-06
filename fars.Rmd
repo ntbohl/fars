@@ -9,13 +9,12 @@ output:
 
 # Package Description
 
-This package is intended to eventually plot fatality analysis on a map of the US. Data acquired from the National Highway Traffic Safety Administration (NHTSA) was obtained as sample data for this package.
+This package is intended to allow light analysis of the Fatality Analysis Reporting System (FARS). This package will provide a mapping tool for plotting accident rates of an individual state. The FARS census information is provided by the National Highway Traffic Safety Administration (NHTSA).
 
-# Load Packages
+# Load the Needed Packages
 
 ```{r import libraries}
  library(fars)
  suppressWarnings(library(maps))
 ```
-
 
